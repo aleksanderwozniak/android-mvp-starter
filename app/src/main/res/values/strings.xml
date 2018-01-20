@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVPTemplateSplash</string>
+    <string name="counterBtn">Click me!</string>
+</resources>
